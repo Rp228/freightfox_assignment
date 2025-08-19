@@ -95,8 +95,8 @@ GET http://localhost:8080/api/dataset/employee_dataset?sortBy=age&order=desc
 
 Clone the repo:
 
-git clone https://github.com/Rp228/freightfox_assignment.git
-cd freightfox_assignment
+git clone https://github.com/Rp228/JsonGroupBySortBy.git
+cd JsonGroupBySortBy
 
 
 Run the app:
